@@ -31,7 +31,7 @@ First I made a layout of the component structure dividing it by sectors and assi
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- Grid
 - Normalize.css used
 
 ### What I learned
